@@ -13,12 +13,10 @@ Normally, iCalendar data is exchanged using email, but it can also be used indep
 * Schedule page-Create schedule
 * 
 
-## Plans
-* Week 7: The second check-in is worth 5 points. You will demonstrate to the TA
-that:
+## [Milestone 2]
+* Week 7: The second check-in
 • At least minimally functioning code that does something: To demonstrate that the
-calendar program of your choice (say, google calendar) successfully reads
-and processes your .ics file.
+calendar program of your choice (say, google calendar) successfully reads and processes your .ics file.
 • A sketch of the user interface.
 • Current Kanban (or whatever your team decides) board.
 * Week 9: developing and performing test cases as you are developing code. must convince the TA that we have a process of demonstrating correctness
