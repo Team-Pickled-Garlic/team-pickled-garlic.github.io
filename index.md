@@ -1,6 +1,6 @@
 ## Overview 
 
-iCalendar is the standard for "calendar data exchange" (RFC 5545).
+iCalendar is the standard for "calendar data exchange" ([RFC 5545](https://tools.ietf.org/html/rfc5545)).
 This standard is sometimes referred to as "iCal", an Apple calendar software of the same name (see iCal). 
 This software is also an implementation of this standard.
 iCalendar allows users to send "meeting requests" or "tasks" via email. 
