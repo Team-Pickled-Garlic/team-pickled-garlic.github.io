@@ -6,3 +6,5 @@ Each week we will decide on a day to either meet face to face or to meet online 
 From the project board each group member will be assigned at least three tasks (tentative) per week. No task is to be worked on concurrently by more than one member. If a group member completes their share for the week they can assign themselves extra tasks if available.  
 
 Each issue will be worked on in its own independent branch. When work for that branch is completed, tested, and functioning as intended the issue will be marked as completed and the issue branch is to be merged into the master branch. Each set of issues are to be completed and merged into the master branch before the corresponding check-in date.
+
+Schedule with user stories: https://docs.google.com/document/d/12tUtST2ZtTvDWoAF4zM2qCbFh6pCIfbvuO2I162G8Y4/edit?usp=sharing
